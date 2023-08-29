@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aooooooo1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm KimSeoungJin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+
 ```java
 
 public class Hi {
