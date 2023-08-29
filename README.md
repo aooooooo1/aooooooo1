@@ -5,9 +5,9 @@
 - 📫 How to reach me ...
 ```java
 
-public class WelcomeToMyHouse {
+public class Hi {
     public static void main(String[] args) {
-        System.out.println("여기는 저의 깃profile입니다!"); // 출력하고자 하는 텍스트
+        System.out.println("여기는 저의 git profile입니다!");
     }
 }
 
