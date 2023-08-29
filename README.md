@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="Hello, I'm KimSeoungJin. I do open source!" src="./assets/develop.gif" /></a></p>
+<p align="center"><a href=""><img width="100%" alt="Hello, I'm KimSeoungJin. I do open source!" src="/assets/develop.gif" /></a></p>
 
 <br />
 
