@@ -7,9 +7,7 @@
 
 public class Hi {
     public static void main(String[] args) {
-        System.out.println("여기는 저의 git profile입니다!");
-        System.out.println("저는 여러 자기개발로 끝없이 발전하고 있는 개발자입니다.");
-        System.out.println("Spring 프레임워크를 활용하여 Java 언어로 개발하는것을 주로 합니다");
+        System.out.println("");
     }
 }
 
