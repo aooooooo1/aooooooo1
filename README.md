@@ -1,17 +1,6 @@
-<p align="center"><a href=""><img width="50%" alt="Hello, I'm KimSeoungJin. I do open source!" src="/assets/develop.gif" /></a></p>
 
 <br />
 
-
-```java
-
-public class Hi {
-    public static void main(String[] args) {
-        System.out.println("");
-    }
-}
-
-```
 
 ## 📚 Skills 📚
 <div align="center">
