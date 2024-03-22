@@ -1,12 +1,4 @@
 
-<br />
-
-
-## 📚 Skills 📚
-<div align="center">
-<br>
-
-
 
 ## ⚖ Statistics ⚖
 <br><br>
